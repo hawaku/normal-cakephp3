@@ -237,6 +237,7 @@ return [
             'flags' => [],
             'cacheMetadata' => true,
             'log' => false,
+            'ssl_ca' => 'BaltimoreCyberTrustRoot.crt.pem',
 
             /**
              * Set identifier quoting to true if you are using reserved words or
